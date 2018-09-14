@@ -1,0 +1,40 @@
+.header{
+	position: relative;
+	width: 100%;
+	height: 50px;
+	color: #333;
+	line-height: 50px;
+	text-align: center;
+}
+#app{
+	position: relative;
+	width: 50%;
+	margin: 0 auto;
+	height: 300px;
+	border:1px solid #342342;
+}
+#virtualdom{
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+.list{
+	width: 60%;
+}
+.item{
+	height: 20px;
+	line-height: 20px;
+	background-color: #ccc;
+	margin-bottom: 5px;
+}
+.description{
+	position: relative;
+	width: 50%;
+	margin: 0 auto;
+	height: 100px;
+}
+.itemUrl{
+	height: 20px;
+	line-height: 20px;
+	margin-bottom: 5px;
+}
